@@ -1,0 +1,1 @@
+# Example repo to compare Github merge and squash-and-merge
