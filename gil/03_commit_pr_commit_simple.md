@@ -19,4 +19,6 @@ test 03:
 1. commit the change
 1. push -u origin
 1. open pull request
-
+1. commit the second change
+1. push -u origin
+1. simple merge to XTUPLE/master
