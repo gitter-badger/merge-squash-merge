@@ -17,3 +17,8 @@ test 02:
 1. branch off XTUPLE/master
 1. make a simple change
 1. commit the change
+1. make a second simple change
+1. commit the second change
+1. push -u origin
+1. open pull request
+1. simple merge to XTUPLE/master
